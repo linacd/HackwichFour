@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
     //Text change from Label to About
-        changedTextButton.text = "About"
+        changedTextButton.text = "About Me"
 
     }
     
